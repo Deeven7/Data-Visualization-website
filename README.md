@@ -13,7 +13,7 @@ This is a simple Data visualization site that is build using the following techn
 * Clone or download the files to the local computer.
 * Install node if the local system does not contain node.
 * By using the terminal(Hyper) or another other commnad line tool traverse to the downloaded project location or if you are using Visual studio code open the integral terminal and traverse to the the downloaded project location.
-* Run the commmand [npm run dev] once traversed to the root of the project location.
+* Run the command [npm run dev] once traversed to the root of the project location.
 * Open any preferred browser and type [localhost:3000].
 
 
